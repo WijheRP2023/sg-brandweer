@@ -1,0 +1,38 @@
+📌 Stap 1: Basisstructuur van het script
+✅ Resource aanmaken → sg-brandweer als ESX-resource.
+✅ Config-bestand opzetten (config.lua) → Instelbare opties zoals voertuigen, locaties, en meldingen.
+✅ Locales-systeem (locales.lua) → Nederlandse en Engelse vertaling mogelijk.
+
+🔥 Stap 2: Brandweer Voertuigen & Spawns
+✅ Spawnlocaties instellen → Config instellen waar brandweerwagens standaard gespawnd worden.
+✅ Voertuigen beheren → Instellen welke voertuigen beschikbaar zijn en hoe ze gespawnd worden.
+✅ Slangen tussen voertuigen → Mogelijkheid om brandslangen te koppelen tussen hydranten en voertuigen.
+
+🚨 Stap 3: Dispatch & Meldingen
+✅ Automatische meldingen → Dispatch-systeem dat P1/P2-meldingen stuurt op basis van branddetectie.
+✅ 112-melding via spelers → Mogelijkheid voor spelers om een incident te melden.
+✅ Integratie met dispatch-scripts zoals cd_dispatch of qs-dispatch (instelbaar in config).
+
+🧯 Stap 4: Brandbestrijding & Waterbeheer
+✅ Brand detecteren en aanmaken → Realistische vuur- en rookontwikkeling.
+✅ Brandslangen gebruiken → Mogelijkheid om water op branden te spuiten.
+✅ Hydranten & voertuigaansluitingen → Waterdruk, slangaansluitingen en realistisch waterverbruik.
+
+🛠️ Stap 5: HV-taken & Reddingstechnieken
+✅ Auto’s openknippen → Hydraulisch gereedschap (spreiders, scharen) om voertuigen open te maken.
+✅ Slachtoffers bevrijden → Mogelijkheid om mensen uit voertuigen te halen.
+✅ Stabilisatie → Voertuigen stabiliseren met stutten.
+✅ Extra incidenten → Olielekkages, instortingsgevaar en andere scenario’s.
+
+🎯 Stap 6: OX Target & Menu's
+✅ OX Target-integratie → Interactie met voertuigen, hydranten en slachtoffers via ox_target.
+✅ Boss Menu → Brandweercommandanten kunnen materiaal beheren en meldingen bekijken.
+
+📦 Stap 7: Props & Inventory Items
+✅ Props voor gereedschappen → 3D-modellen van spreiders, scharen, slangen, ademlucht, etc.
+✅ OX Inventory integratie → Tools als items toevoegen en correct laten werken.
+
+🚀 Stap 8: Optimalisatie & Testen
+✅ Performance check → Optimalisatie voor soepele werking op FiveM.
+✅ Bugfixing → Testen en oplossen van fouten.
+✅ Finale stresstest → Check of het goed draait met meerdere spelers.
