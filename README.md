@@ -1,51 +1,47 @@
-🚒 sg-brandweer | FiveM Brandweer Script
-Een realistisch en uitgebreid brandweer script voor ESX en QB-Core. Dit script voegt interactieve brandweerslangen, ademlucht, en een dynamisch brand- en incidentensysteem toe.
+# 🚒 sg-brandweer | FiveM Brandweer Script  
 
-📌 Kenmerken
-✅ Brandweercommandant menu via ox_target
-✅ Kleedkamer systeem met outfits per rang
-✅ Voertuigbeheer via NPC en ox_target interacties
-✅ Brandweerslangen (fysiek aansluiten op hydranten & voertuigen)
-✅ Waterdruk & waterverbruik systeem
-✅ Ademlucht & rookinhalatie effecten
-✅ Realistisch brandsysteem (vuur verspreidt zich)
+Een realistisch en uitgebreid brandweer script voor **ESX** en **QB-Core**. Dit script voegt interactieve brandweerslangen, ademlucht en een dynamisch brand- en incidentensysteem toe.  
 
-📦 Installatie
-1️⃣ Download & installeer afhankelijkheden:
+## 📌 Kenmerken  
+✅ **Brandweercommandant menu** via ox_target  
+✅ **Kleedkamer systeem** met outfits per rang  
+✅ **Voertuigbeheer** via NPC en ox_target interacties  
+✅ **Brandweerslangen** (fysiek aansluiten op hydranten & voertuigen)  
+✅ **Waterdruk & waterverbruik systeem**  
+✅ **Ademlucht & rookinhalatie effecten**  
+✅ **Realistisch brandsysteem** (vuur verspreidt zich)  
 
-ox_lib
-ox_target
-ox_inventory
-Een werkende ESX of QB-Core server
-2️⃣ Plaats het script in je resources map
+## 📦 Installatie  
+### 1️⃣ Vereisten  
+- [ox_lib](https://github.com/overextended/ox_lib)  
+- [ox_target](https://github.com/overextended/ox_target)  
+- [ox_inventory](https://github.com/overextended/ox_inventory)  
+- Een werkende **ESX** of **QB-Core** server  
 
-sh
-Kopiëren
-Bewerken
+### 2️⃣ Installatie  
+Plaats het script in je `resources` map:  
+```sh
 cd resources
 git clone https://github.com/jouwrepo/sg-brandweer.git
+
 of download en pak het uit.
 
-3️⃣ Voeg toe aan server.cfg
+3️⃣ Server configuratie
+Voeg het script toe aan je server.cfg:
 
-sh
-Kopiëren
-Bewerken
 ensure sg-brandweer
-4️⃣ Configureer het script in config.lua
+
+Pas instellingen aan in config.lua om voertuigen, waterdruk en andere parameters te bepalen.
 
 🎮 Gebruik
-👨‍🚒 Slangen pakken & aansluiten:
-
+👨‍🚒 Brandweerslangen
 Pak een slang uit een brandweerwagen via ox_target
 Sluit de slang aan op een hydrant of voertuig
 Gebruik de nozzle om water te spuiten
-🔥 Brandbestrijding:
-
+🔥 Brandbestrijding
 Vuur kan zich uitbreiden als het niet snel wordt geblust
 Sommige branden vereisen een specifieke aanpak (olie, elektrisch, gaslekken)
-👷‍♂️ Ademlucht & Veiligheid:
-
+👷‍♂️ Ademlucht & Veiligheid
 Rook veroorzaakt hoesten en vermindert zichtbaarheid
 Gebruik een ademluchtapparaat bij zware rookontwikkeling
 ⚙️ Configuratie
