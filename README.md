@@ -31,24 +31,28 @@ Voeg het script toe aan je server.cfg:
 ```sh
 ensure sg-brandweer
 ```
-Pas instellingen aan in config.lua om voertuigen, waterdruk en andere parameters te bepalen.
+## 📦 Installatie
+Pas instellingen aan in `config.lua` om voertuigen, waterdruk en andere parameters te bepalen.
 
-🎮 Gebruik
-👨‍🚒 Brandweerslangen
-Pak een slang uit een brandweerwagen via ox_target
-Sluit de slang aan op een hydrant of voertuig
-Gebruik de nozzle om water te spuiten
-🔥 Brandbestrijding
-Vuur kan zich uitbreiden als het niet snel wordt geblust
-Sommige branden vereisen een specifieke aanpak (olie, elektrisch, gaslekken)
-👷‍♂️ Ademlucht & Veiligheid
-Rook veroorzaakt hoesten en vermindert zichtbaarheid
-Gebruik een ademluchtapparaat bij zware rookontwikkeling
-⚙️ Configuratie
-In config.lua kun je:
+## 🎮 Gebruik  
+### 👨‍🚒 Brandweerslangen
+- Pak een slang uit een brandweerwagen via **ox_target**  
+- Sluit de slang aan op een hydrant of voertuig  
+- Gebruik de nozzle om water te spuiten  
 
-Voertuigen instellen die slangen kunnen opslaan
-Waterdrukwaarden en slangenlengte aanpassen
-Brandweer outfits en rangen configureren
-❓ Ondersteuning
+### 🔥 Brandbestrijding
+- Vuur kan zich uitbreiden als het niet snel wordt geblust  
+- Sommige branden vereisen een specifieke aanpak (olie, elektrisch, gaslekken)  
+
+### 👷‍♂️ Ademlucht & Veiligheid  
+- Rook veroorzaakt hoesten en vermindert zichtbaarheid  
+- Gebruik een ademluchtapparaat bij zware rookontwikkeling  
+
+## ⚙️ Configuratie  
+In `config.lua` kun je de volgende instellingen aanpassen:
+- **Voertuigen** die slangen kunnen opslaan  
+- **Waterdrukwaarden** en **slangenlengte**  
+- **Brandweer outfits** en **rangen** configureren  
+
+## ❓ Ondersteuning  
 Voor vragen of bugs, open een issue of vraag in Discord.
