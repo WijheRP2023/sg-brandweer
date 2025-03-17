@@ -23,14 +23,14 @@ Plaats het script in je `resources` map:
 ```sh
 cd resources
 git clone https://github.com/jouwrepo/sg-brandweer.git
-
+```
 of download en pak het uit.
 
 3️⃣ Server configuratie
 Voeg het script toe aan je server.cfg:
-
+```sh
 ensure sg-brandweer
-
+```
 Pas instellingen aan in config.lua om voertuigen, waterdruk en andere parameters te bepalen.
 
 🎮 Gebruik
