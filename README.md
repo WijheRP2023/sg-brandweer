@@ -35,53 +35,52 @@ ensure sg-brandweer
 ## 📦 Installatie
 Pas instellingen aan in `config.lua` om voertuigen, waterdruk en andere parameters te bepalen.
 
-🎮 Gebruik
-👨‍🚒 Brandweerslangen
-Pak een slang uit een brandweerwagen via ox_target
+## 📦 Installatie  
+Pas instellingen aan in `config.lua` om voertuigen, waterdruk en andere parameters te bepalen.
 
-Sluit de slang aan op een hydrant of voertuig
+---
 
-Gebruik de nozzle om water te spuiten
+## 🎮 Gebruik  
 
-🔥 Brandbestrijding
-Vuur kan zich uitbreiden als het niet snel wordt geblust
+### 👨‍🚒 Brandweerslangen  
+- Pak een slang uit een brandweerwagen via **ox_target**  
+- Sluit de slang aan op een hydrant of voertuig  
+- Gebruik de nozzle om water te spuiten  
 
-Sommige branden vereisen een specifieke aanpak (olie, elektrisch, gaslekken)
+### 🔥 Brandbestrijding  
+- Vuur kan zich uitbreiden als het niet snel wordt geblust  
+- Sommige branden vereisen een specifieke aanpak (*olie, elektrisch, gaslekken*)  
 
-👷‍♂️ Ademlucht & Veiligheid
-Rook veroorzaakt hoesten en vermindert zichtbaarheid
+### 👷‍♂️ Ademlucht & Veiligheid  
+- Rook veroorzaakt hoesten en vermindert zichtbaarheid  
+- Gebruik een ademluchtapparaat bij zware rookontwikkeling  
 
-Gebruik een ademluchtapparaat bij zware rookontwikkeling
+### 🚑 Hulpverlening (HV)  
+- Bevrijd spelers uit beschadigde voertuigen  
+- Knip deuren open met hydraulisch gereedschap  
+- Voer medische handelingen uit op slachtoffers  
 
-🚑 Hulpverlening (HV)
-Bevrijd spelers uit beschadigde voertuigen
+### 🚗 Voertuigschade & Vastzittende Spelers  
+- Bij zware crashes kunnen spelers vast komen te zitten  
+- Brandweer kan de deuren openknippen of ruiten inslaan  
+- Realistische animaties en interacties via **ox_target**  
 
-Knip deuren open met hydraulisch gereedschap
+---
 
-Voer medische handelingen uit op slachtoffers
+## ⚙️ Configuratie  
+In `config.lua` kun je de volgende instellingen aanpassen:  
+- **Voertuigen** die slangen kunnen opslaan  
+- **Waterdrukwaarden** en **slangenlengte**  
+- **Brandweer outfits** en **rangen** configureren  
+- **Hulpverleningsopties** en **voertuigschade instellingen**  
 
-🚗 Voertuigschade & Vastzittende Spelers
-Bij zware crashes kunnen spelers vast komen te zitten
+---
 
-Brandweer kan de deuren openknippen of ruiten inslaan
+## ❓ Ondersteuning  
+Voor vragen of bugs, open een issue of vraag in Discord.  
 
-Realistische animaties en interacties via ox_target
+---
 
-⚙️ Configuratie
-In config.lua kun je de volgende instellingen aanpassen:
-
-Voertuigen die slangen kunnen opslaan
-
-Waterdrukwaarden en slangenlengte
-
-Brandweer outfits en rangen configureren
-
-Hulpverleningsopties en voertuigschade instellingen
-
-❓ Ondersteuning
-Voor vragen of bugs, open een issue of vraag in Discord.
-
-🛠️ Makers
-Coding: SG-Development
-
-Props: Beaver Mods
+## 🛠️ Makers  
+- **Coding:** SG-Development  
+- **Props:** Beaver Mods  
