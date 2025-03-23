@@ -15,7 +15,8 @@ Een realistisch en uitgebreid brandweer script voor **ESX** en **QB-Core**. Dit 
 ### 1️⃣ Vereisten  
 - [ox_lib](https://github.com/overextended/ox_lib)  
 - [ox_target](https://github.com/overextended/ox_target)  
-- [ox_inventory](https://github.com/overextended/ox_inventory)  
+- [ox_inventory](https://github.com/overextended/ox_inventory)
+- [BV-firefighterprops](https://beavermods.tebex.io/package/5914602) 
 - Een werkende **ESX** of **QB-Core** server  
 
 ### 2️⃣ Installatie  
@@ -56,3 +57,7 @@ In `config.lua` kun je de volgende instellingen aanpassen:
 
 ## ❓ Ondersteuning  
 Voor vragen of bugs, open een issue of vraag in Discord.
+
+## made by
+- coding SG-Development
+- props Beaver Mods
