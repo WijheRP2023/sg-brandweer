@@ -35,29 +35,53 @@ ensure sg-brandweer
 ## 📦 Installatie
 Pas instellingen aan in `config.lua` om voertuigen, waterdruk en andere parameters te bepalen.
 
-## 🎮 Gebruik  
-### 👨‍🚒 Brandweerslangen
-- Pak een slang uit een brandweerwagen via **ox_target**  
-- Sluit de slang aan op een hydrant of voertuig  
-- Gebruik de nozzle om water te spuiten  
+🎮 Gebruik
+👨‍🚒 Brandweerslangen
+Pak een slang uit een brandweerwagen via ox_target
 
-### 🔥 Brandbestrijding
-- Vuur kan zich uitbreiden als het niet snel wordt geblust  
-- Sommige branden vereisen een specifieke aanpak (olie, elektrisch, gaslekken)  
+Sluit de slang aan op een hydrant of voertuig
 
-### 👷‍♂️ Ademlucht & Veiligheid  
-- Rook veroorzaakt hoesten en vermindert zichtbaarheid  
-- Gebruik een ademluchtapparaat bij zware rookontwikkeling  
+Gebruik de nozzle om water te spuiten
 
-## ⚙️ Configuratie  
-In `config.lua` kun je de volgende instellingen aanpassen:
-- **Voertuigen** die slangen kunnen opslaan  
-- **Waterdrukwaarden** en **slangenlengte**  
-- **Brandweer outfits** en **rangen** configureren  
+🔥 Brandbestrijding
+Vuur kan zich uitbreiden als het niet snel wordt geblust
 
-## ❓ Ondersteuning  
+Sommige branden vereisen een specifieke aanpak (olie, elektrisch, gaslekken)
+
+👷‍♂️ Ademlucht & Veiligheid
+Rook veroorzaakt hoesten en vermindert zichtbaarheid
+
+Gebruik een ademluchtapparaat bij zware rookontwikkeling
+
+🚑 Hulpverlening (HV)
+Bevrijd spelers uit beschadigde voertuigen
+
+Knip deuren open met hydraulisch gereedschap
+
+Voer medische handelingen uit op slachtoffers
+
+🚗 Voertuigschade & Vastzittende Spelers
+Bij zware crashes kunnen spelers vast komen te zitten
+
+Brandweer kan de deuren openknippen of ruiten inslaan
+
+Realistische animaties en interacties via ox_target
+
+⚙️ Configuratie
+In config.lua kun je de volgende instellingen aanpassen:
+
+Voertuigen die slangen kunnen opslaan
+
+Waterdrukwaarden en slangenlengte
+
+Brandweer outfits en rangen configureren
+
+Hulpverleningsopties en voertuigschade instellingen
+
+❓ Ondersteuning
 Voor vragen of bugs, open een issue of vraag in Discord.
 
-## made by
-- coding SG-Development
-- props Beaver Mods
+🛠️ Makers
+Coding: SG-Development
+
+Props: Beaver Mods
