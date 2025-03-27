@@ -16,7 +16,8 @@ Een realistisch en uitgebreid brandweer script voor **ESX** en **QB-Core**. Dit 
 - [ox_lib](https://github.com/overextended/ox_lib)  
 - [ox_target](https://github.com/overextended/ox_target)  
 - [ox_inventory](https://github.com/overextended/ox_inventory)
-- [BV-firefighterprops](https://beavermods.tebex.io/package/5914602) 
+- [BV-firefighterprops](https://beavermods.tebex.io/package/5914602)
+- [dpemotes](https://github.com/andristum/dpemotes)
 - Een werkende **ESX** of **QB-Core** server  
 
 ### 2️⃣ Installatie  
